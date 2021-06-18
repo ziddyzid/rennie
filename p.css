@@ -1,0 +1,35 @@
+.p1{
+font-size: 25px;
+color: blue;
+background-color: darkseagreen;
+text-align: center;
+}
+.h1{
+    font-size: 50px;
+    font-family:Cambria, Cochin;
+    color: rgb(255, 0, 0);
+}
+.h2{
+    font-size: 25px;
+    font-family: Geneva;
+    color: rgb(246, 255, 116);
+}
+.h3{
+    color: rgb(134, 19, 187);
+    text-align: center;
+    background-color: rgba(255, 252, 240, 0.418);
+    font-size: 20px;
+    font-family:'Trebuchet MS';
+}
+.pic{
+    width: 200px;
+    height:215px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);  
+}
+.bor{
+border: 2px;
+text-align: center;
+font-family: 'Oswald', sans-serif;
+
+}
